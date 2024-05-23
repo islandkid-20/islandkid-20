@@ -9,7 +9,7 @@ Passionate Software Developer | Backend Specialist with Django & Django Rest Fra
 * 🌍  I'm based in Dar Es Salaam
 * ✉️  You can contact me at [j1997ames@gmail.com](mailto:j1997ames@gmail.com)
 * 🚀  I'm currently working on [Kaazi](https://kaazi.io/)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on Any projects based on Django and DRF
 
 <a href="https://www.github.com/islandkid-20" target="_blank" rel="noreferrer"><img
