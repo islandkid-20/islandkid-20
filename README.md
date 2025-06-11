@@ -11,6 +11,7 @@ Passionate Software Developer | Backend Specialist with Django & Django Rest Fra
 * 🚀  I'm currently working on [Django Cachalot](https://github.com/islandkid-20/django-cachalot)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on Any projects based on Django and DRF
+* 📦 I've published a Python package on PyPI: [beem-sms-python](https://pypi.org/project/beem-sms-python/) – A Python client for Beem Africa SMS API
 
 <a href="https://www.github.com/islandkid-20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/islandkid-20?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
