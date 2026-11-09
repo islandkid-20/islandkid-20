@@ -1,43 +1,89 @@
-Hi 👋 My name is James Mashaka
-==============================
 
-Software Developer
-------------------
+# Hi 👋 My name is James Mashaka
 
-Passionate Software Developer | Backend Specialist with Django & Django Rest Framework
+### Software Developer | Backend Engineer
 
-* 🌍  I'm based in Dar Es Salaam
-* ✉️  You can contact me at [j1997ames@gmail.com](mailto:j1997ames@gmail.com)
-* 🚀  I'm currently working on [Django Cachalot](https://github.com/islandkid-20/django-cachalot)
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on Any projects based on Django and DRF
-* 📦 I've published a Python package on PyPI: [beem-sms-python](https://pypi.org/project/beem-sms-python/) – A Python client for Beem Africa SMS API
+Passionate Software Developer specializing in backend development, API design, and building scalable applications using Python, Django, and Django REST Framework.
 
-<a href="https://www.github.com/islandkid-20" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/islandkid-20?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+- I'm based in Dar es Salaam, Tanzania
+- Contact me at [j1997ames@gmail.com](mailto:j1997ames@gmail.com)
+- I'm currently working on [Django Cachalot](https://github.com/islandkid-20/django-cachalot)
+- I'm learning Laravel
+- I'm open to collaborating on Django, DRF, and other software development projects
+- I've published a Python package on PyPI: [beem-sms-python](https://pypi.org/project/beem-sms-python/) — a Python client for the Beem Africa SMS API
 
-### Skills
+<a href="https://github.com/islandkid-20">
+  <img src="https://img.shields.io/github/followers/islandkid-20?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" alt="GitHub Followers" />
+</a>
 
+---
+
+### 🛠️ Skills & Technologies
+
+**Backend Development**
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ruby,laravel" alt="Backend Technologies" />
 </p>
 
+**Frontend Development**
 
-### Socials
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/islandkid-20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/james-mashaka-02698715a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**Mobile Development**
 
-### Badges
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies" />
+</p>
 
-<b>My GitHub Stats</b>
+**Databases & Caching**
 
-<a href="http://www.github.com/islandkid-20"><img src="https://github-readme-stats.vercel.app/api?username=islandkid-20&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="islandkid-20's GitHub stats" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases and Caching" />
+</p>
 
-<a href="http://www.github.com/islandkid-20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=islandkid-20&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**DevOps & Tools**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,postman" alt="DevOps and Tools" />
+</p>
 
-<a href="http://www.github.com/islandkid-20"><img src="https://github-readme-activity-graph.vercel.app/graph?username=islandkid-20&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
+### Open Source & Python Packages
 
-<a href="https://github.com/islandkid-20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islandkid-20&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Beem SMS Python**
+
+A Python client library for integrating with the Beem Africa SMS API.
+
+[![PyPI](https://img.shields.io/pypi/v/beem-sms-python?color=0891b2&label=PyPI&logo=pypi)](https://pypi.org/project/beem-sms-python/)
+
+[View Package on PyPI](https://pypi.org/project/beem-sms-python/)
+
+---
+
+### Most Used Languages
+
+<p align="left">
+  <a href="https://github.com/islandkid-20">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islandkid-20&layout=compact&langs_count=8&title_color=3382ed&text_color=ffffff&bg_color=171717&hide_border=true&locale=en" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://github.com/islandkid-20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/james-mashaka-02698715a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:j1997ames@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
